@@ -1,3 +1,9 @@
+aiohttp-jinja2 (1.2.0-1pexip1) pexip; urgency=medium
+
+  * Prepare Pexip packaging
+
+ -- Huw Jones <huw@pexip.com>  Tue, 25 May 2021 14:28:22 +0100
+
 aiohttp-jinja2 (1.2.0-1) unstable; urgency=medium
 
   [ Ondřej Nový ]
